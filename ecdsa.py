@@ -2,12 +2,6 @@
 #Implement ECDSA
 #@Source: https://pynative.com/python-random-randrange/#:~:text=Use%20a%20random.,8%20%2C9%2C%2010%5D.
 
-#IMPORTS
-
-'''
-QUESTIONS:
-- is the math mod for standard + and - okay?
-'''
 
 #@param int x: num to add
 # @param int y: num to add
